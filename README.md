@@ -31,3 +31,6 @@ more clear.
 In the visualization page, as seen in figure 3, the same header can be seen at the top along with the name of the site in bold letters below. 
 On this page, there is only one additional button, which is the “REVISUALIZE” button. This button takes the user back to the previous page, where they can once again, 
 upload, and read .csv files.
+
+# Technologies
+Python, Bokeh, JavaScript, HTML, CSS, Git
